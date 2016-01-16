@@ -15,6 +15,8 @@ p{word-wrap:break-word}
 .clear{ clear:both;}
 .left{ float:left;}
 .right{ float:right;}
+a{ text-decoration: none;}
+
 /*css reset  end*/
 
 .warp{ max-width: 7rem; background-color: #fafafa; margin: 0 auto; border: 1px solid #f2f2f2;}
@@ -25,6 +27,8 @@ p{word-wrap:break-word}
 .info h2{ font-size: .3rem; color: #333; margin: .3rem 0; font-weight: normal;}
 .f_word{ color: #B9B9B9;}
 .info i{ margin-right: .05rem; margin-left: .2rem;}
+.info a{ color: #666; font-size: .2rem;}
+.info a:hover{ color: #00B38A;}
 
 .ex-box{ width: 90%; margin: 0 auto;}
 .item-box{ border-top: 1px solid #eee; margin-top: .5rem;}
@@ -38,3 +42,4 @@ p{word-wrap:break-word}
 
 
 .footer{ height: .5rem; text-align: center; font-size: .14rem; color: #999; line-height: .5rem; background-color: #eee;}
+.footer a{color: #00B38A;}
