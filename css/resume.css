@@ -30,7 +30,7 @@ a{ text-decoration: none;}
 .info a{ color: #666; font-size: .2rem;}
 .info a:hover{ color: #00B38A;}
 
-.ex-box{ width: 90%; margin: 0 auto;}
+.ex-box{ width: 95%; margin: 0 auto;}
 .item-box{ border-top: 1px solid #eee; margin-top: .5rem;}
 .item-box .title{ font-size: .2rem; width: 1.5rem; margin: 0 auto; text-align: center; margin-top: -30px; padding: .05rem;
 	 height: .3rem; line-height: .3rem; border:.1rem #fafafa solid; border-radius: .5rem; color: #fff; background-color: #00B38A;}
