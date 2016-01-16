@@ -26,6 +26,11 @@ p{word-wrap:break-word}
 .f_word{ color: #B9B9B9;}
 .info i{ margin-right: .05rem; margin-left: .2rem;}
 
+.ex-box{ width: 90%; margin: 0 auto;}
+.item-box{ border-top: 1px solid #eee; margin-top: .5rem;}
+.item-box .title{ font-size: .2rem; width: 1.5rem; margin: 0 auto; text-align: center; margin-top: -30px; padding: .05rem;
+	 height: .3rem; line-height: .3rem; border:.1rem #fafafa solid; border-radius: .5rem; color: #fff; background-color: #00B38A;}
+.item-box .content{ width: 95%; margin: 10px auto; font-size: .14rem; line-height: .24rem;}
 
 
 
