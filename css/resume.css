@@ -36,8 +36,32 @@ a{ text-decoration: none;}
 	 height: .3rem; line-height: .3rem; border:.1rem #fafafa solid; border-radius: .5rem; color: #fff; background-color: #00B38A;}
 .item-box .content{ width: 95%; margin: 10px auto; font-size: .14rem; line-height: .24rem;}
 
-
-
+.tec-list{}
+.tec-list li{ width: 100%; height: .26rem;line-height: .26rem;  margin: 5px 0; border-left: 3px solid #999;}
+.tec-list li .pro-box{ width: 100%; background-color: #EFEDED; overflow: hidden;}
+.tec-list li .pro-inner{ float: left; color: #fff; text-indent: 1em; }
+.tec-list li.tec-hc{border-left: 3px solid #006B30;}
+.tec-list li.tec-hc .pro-inner{ width: 94%; background-color: #029644;}
+.tec-list li.tec-h5c3{border-left: 3px solid #E44D26;}
+.tec-list li.tec-h5c3 .pro-inner{ width: 70%; background-color: #F2743E;}
+.tec-list li.tec-js{border-left: 3px solid #004A90;}
+.tec-list li.tec-js .pro-inner{ width: 84%; background-color: #0068CA;}
+.tec-list li.tec-bs{border-left: 3px solid #4C2088;}
+.tec-list li.tec-bs .pro-inner{ width: 74%; background-color: #863378;}
+.tec-list li.tec-jq{border-left: 3px solid #025086;}
+.tec-list li.tec-jq .pro-inner{ width: 80%; background-color: #0769AD;}
+.tec-list li.tec-node{border-left: 3px solid #507501;}
+.tec-list li.tec-node .pro-inner{ width: 30%; background-color: #80BD01;}
+.tec-list li.tec-ps{border-left: 3px solid #037CA9;}
+.tec-list li.tec-ps .pro-inner{ width: 90%; background-color: #00AEEF;}
+.tec-list li.tec-gulp{border-left: 3px solid #A22626;}
+.tec-list li.tec-gulp .pro-inner{ width: 50%; background-color: #CF4646;}
+.tec-list li.tec-git{border-left: 3px solid #07676F;}
+.tec-list li.tec-git .pro-inner{ width: 60%; background-color: #068D98;}
+.tec-list li.tec-rq{border-left: 3px solid #2465A5;}
+.tec-list li.tec-rq .pro-inner{ width: 40%; background-color: #2E87DD;}
+.tec-list li.tec-java{border-left: 3px solid #A75102;}
+.tec-list li.tec-java .pro-inner{ width: 60%; background-color: #E76F00;}
 
 
 
