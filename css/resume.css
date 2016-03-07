@@ -51,7 +51,7 @@ a{ text-decoration: none;}
 .tec-list li.tec-jq{border-left: 3px solid #025086;}
 .tec-list li.tec-jq .pro-inner{ width: 80%; background-color: #0769AD;}
 .tec-list li.tec-node{border-left: 3px solid #507501;}
-.tec-list li.tec-node .pro-inner{ width: 30%; background-color: #80BD01;}
+.tec-list li.tec-node .pro-inner{ width: 20%; background-color: #80BD01;}
 .tec-list li.tec-ps{border-left: 3px solid #037CA9;}
 .tec-list li.tec-ps .pro-inner{ width: 90%; background-color: #00AEEF;}
 .tec-list li.tec-gulp{border-left: 3px solid #A22626;}
