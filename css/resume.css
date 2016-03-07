@@ -51,17 +51,17 @@ a{ text-decoration: none;}
 .tec-list li.tec-jq{border-left: 3px solid #025086;}
 .tec-list li.tec-jq .pro-inner{ width: 80%; background-color: #0769AD;}
 .tec-list li.tec-node{border-left: 3px solid #507501;}
-.tec-list li.tec-node .pro-inner{ width: 20%; background-color: #80BD01;}
+.tec-list li.tec-node .pro-inner{ width: 10%; background-color: #80BD01;}
 .tec-list li.tec-ps{border-left: 3px solid #037CA9;}
 .tec-list li.tec-ps .pro-inner{ width: 90%; background-color: #00AEEF;}
 .tec-list li.tec-gulp{border-left: 3px solid #A22626;}
 .tec-list li.tec-gulp .pro-inner{ width: 50%; background-color: #CF4646;}
 .tec-list li.tec-git{border-left: 3px solid #07676F;}
-.tec-list li.tec-git .pro-inner{ width: 60%; background-color: #068D98;}
+.tec-list li.tec-git .pro-inner{ width: 45%; background-color: #068D98;}
 .tec-list li.tec-rq{border-left: 3px solid #2465A5;}
-.tec-list li.tec-rq .pro-inner{ width: 40%; background-color: #2E87DD;}
+.tec-list li.tec-rq .pro-inner{ width: 50%; background-color: #2E87DD;}
 .tec-list li.tec-java{border-left: 3px solid #A75102;}
-.tec-list li.tec-java .pro-inner{ width: 60%; background-color: #E76F00;}
+.tec-list li.tec-java .pro-inner{ width: 40%; background-color: #E76F00;}
 
 .skill .content p{ margin-top: .2rem;}
 .skill .content p span{ font-weight: bold; font-size: .16rem;}
