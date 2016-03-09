@@ -36,7 +36,6 @@ a{ text-decoration: none;}
 	 height: .3rem; line-height: .3rem; border:.1rem #fafafa solid; border-radius: .5rem; color: #fff; background-color: #00B38A;}
 .item-box .content{ width: 95%; margin: 10px auto; font-size: .14rem; line-height: .24rem;}
 
-.skill{}
 .tec-list li{ width: 100%; height: .26rem;line-height: .26rem;  margin: 5px 0; border-left: 3px solid #999;}
 .tec-list li .pro-box{ width: 100%; background-color: #EFEDED; overflow: hidden;}
 .tec-list li .pro-inner{ float: left; color: #fff; text-indent: 1em; }
@@ -86,7 +85,7 @@ a{ text-decoration: none;}
 .edu .content ul li:hover{ color: #00B38A;}
 .edu .content ul li:hover i{color: #00B38A;}
 
-.product .content p{ border-left: #ddd 3px solid; text-indent: 1em; margin: .1rem 0; color: #ccc;}
+.product .content p{ border-left: #ddd 3px solid; padding-left: 1em; margin: .1rem 0; color: #ccc;}
 .product .content ul{ overflow: hidden;}
 .product .content li{ width: 48%; padding: .1rem 0; margin-top: 5px; float: left; text-align: center;}
 .product .content li:nth-child(2n){ float: right;}
